@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757322635157",
+    "project_id": "galaxmovie",
+    "storage_bucket": "galaxmovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757322635157:android:452b1ebf2fc5776e60c89c",
+        "android_client_info": {
+          "package_name": "com.example.galaxmovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4wL-Swbu5FpK8hoZuU3ys4NtTFKXFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
